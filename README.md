@@ -20,7 +20,14 @@ Additional features:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 215.1696606786427%; height: 0;"><iframe src="https://www.loom.com/embed/a00107008f40488480ad0e3854f96ca4?sid=28412275-6b0f-40db-825d-e593af76e147" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/a00107008f40488480ad0e3854f96ca4">
+    </a>
+    <a href="https://www.loom.com/share/a00107008f40488480ad0e3854f96ca4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a00107008f40488480ad0e3854f96ca4-97b077070d3030c6-full-play.gif">
+    </a>
+  </div>
+
 
 ## App Brainstorming (Step 4)
 
